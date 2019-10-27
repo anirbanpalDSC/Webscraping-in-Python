@@ -2,7 +2,7 @@
 
 > Readme file for the Webscraping in Python project
 
-<img src="Images/WebScraping.jpg" data-canonical-src="Images/BigMart.jpg" width="520" height="150" />
+<img src="Images/WebScraping.jpg" data-canonical-src="Images/WebScraping.jpg" width="520" height="150" />
 
 In this program, I am collecting wether data for my current location from weather.gov. Then I am putting it in a pandas data frame, doing basic clean up and doing some analysis on the data.
 
